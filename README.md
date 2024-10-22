@@ -1,2 +1,2 @@
 # Certifications
-My programming and tech certifications.
+Programming and tech certifications.
